@@ -139,6 +139,12 @@ form button:hover {
     cursor: pointer;
 }
 
+/* Diminuir os itens de coleta ao passar o mouse */
+/* .items-grid li:hover {
+    height: 170px;
+    width: 170px;
+} */
+
 .items-grid li span {
     margin-top: 12px;
     flex: 1;
@@ -146,6 +152,8 @@ form button:hover {
     align-items: center;
     color: var(--title-color);
 }
+
+
 
 .items-grid li.selected {
 
