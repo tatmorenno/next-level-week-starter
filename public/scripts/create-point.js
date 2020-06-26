@@ -1,15 +1,15 @@
 function populateUFs() {
     const ufSelect = document.querySelector("select[name=uf]")
-    
+
     fetch("https://servicodados.ibge.gov.br/api/v1/localidades/estados")
-    .then( res => res.json() )
-    .then( states => {
-        for( const state of states ) {
+        .then(res => res.json())
+        .then(states => {
+            for (const state of states) {
 
-            ufSelect.innerHTML += `<option value="${state.id}">${state.nome}</option>`
+                ufSelect.innerHTML += `<option value="${state.id}">${state.nome}</option>`
 
-        }
-    } )
+            }
+        })
 }
 
 populateUFs()
@@ -27,14 +27,14 @@ function getCities(event) {
     citySelect.disabled = true
 
     fetch(url)
-    .then( res => res.json() )
-    .then( cities => {
-            for( const city of cities ) {
-            citySelect.innerHTML += `<option value="${city.nome}">${city.nome}</option>`
-        }
+        .then(res => res.json())
+        .then(cities => {
+            for (const city of cities) {
+                citySelect.innerHTML += `<option value="${city.nome}">${city.nome}</option>`
+            }
 
-        citySelect.disabled = false
-    } )
+            citySelect.disabled = false
+        })
 }
 
 document
@@ -56,14 +56,14 @@ function handleSelectedItem(event) {
     const itemLi = event.target
     itemLi.classList.toggle("selected")
     const itemId = itemLi.dataset.id
-    const alreadySelected = selectedItems.findIndex( item => {
+    const alreadySelected = selectedItems.findIndex(item => {
         const itemFound = item == itemId
         return itemFound
     })
 
-    if (alreadySelected >= 0 ) {
+    if (alreadySelected >= 0) {
 
-        const filteredItems = selectedItems.filter ( item => {
+        const filteredItems = selectedItems.filter(item => {
             const itemIsDifferent = item != itemId
             return itemIsDifferent
 
@@ -75,5 +75,5 @@ function handleSelectedItem(event) {
     }
 
     collectedItems.value = selectedItems
-    
-    }
+
+}

@@ -76,3 +76,17 @@
     background-color: #134631;
     
 }
+
+/* Os comandos abaixo são para o modal point created */
+
+#modal.point .content {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point h1 {
+    color: whitesmoke;
+    margin-top: 32px;
+}
