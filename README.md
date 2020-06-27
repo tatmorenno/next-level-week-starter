@@ -32,4 +32,4 @@ Você pode visualizar o layout original do projeto no formato através [deste li
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-Feito com ♥ por [Tatiana Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
+Feito com ♥ por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
