@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://github.com/tatmorenno/NextLevelWeekStarter/blob/master/public/assets/Ecoleta.jpg" width="700" height="350"> 
+<img src="https://github.com/tatmorenno/NextLevelWeekStarter/blob/master/public/assets/Ecoleta.jpg" width="900" height="450"> 
 
 </h1>
 
