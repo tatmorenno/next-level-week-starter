@@ -1,10 +1,4 @@
-<h1 align="center">
-  
-<img src="https://github.com/tatmorenno/NextLevelWeekStarter/blob/master/public/assets/Ecoleta.jpg" width="1000" height="600">
 
-</h1>
-
-<br/>
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
