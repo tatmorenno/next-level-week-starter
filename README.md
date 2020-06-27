@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://github.com/tatmorenno/NextLevelWeekStarter/blob/master/public/assets/Ecoleta.jpg" width="250" height="650"> 
+<img src="https://github.com/tatmorenno/NextLevelWeekStarter/blob/master/public/assets/Ecoleta.jpg" width="650" height="250"> 
 
 </h1>
 
@@ -20,15 +20,15 @@ Você pode visualizar o layout do projeto no formato através desse link. Lembra
 
 ## 🤔 Como contribuir
 
-Faça um fork desse repositório;
+- Faça um fork desse repositório;
 
-Cria uma branch com a sua feature:
+- Crie uma branch com a sua feature:
 ```bash $ git checkout -b minha-feature```;
 
-Faça commit das suas alterações:
+- Faça commit das suas alterações:
 ```bash $ git commit -m 'feat: Minha nova feature'```;
 
-Faça push para a sua branch:
+- Faça push para a sua branch:
 ```bash $ git push origin minha-feature```.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
