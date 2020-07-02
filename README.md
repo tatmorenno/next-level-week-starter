@@ -1,6 +1,6 @@
 <h1 align="center">
   
-<video src="https://ik.imagekit.io/tatmorenno/Ecoleta_-_Google_Chrome_2020-07-02_02-02-05_6WgtHl6Cu.mp4" width="1000" height="500"> </video>
+<img src="https://ik.imagekit.io/tatmorenno/Ecoleta_-_Google_Chrome_2020-07-02_02-02-05_To0SGwmXD.gif" width="1000" height="500">
 
 </h1>
 
