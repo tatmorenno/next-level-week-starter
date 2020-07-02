@@ -1,5 +1,7 @@
 <h1 align="center">
+  <kbd>
   <img src="https://github.com/Rocketseat/nlw-01-starter/raw/master/.github/ecoleta.svg?sanitize=true">
+  </kbd>
   <br/>
 </h1>
 
