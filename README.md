@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/Rocketseat/nlw-01-starter/raw/master/.github/ecoleta.svg?sanitize=true">
   <br/>
-  <img src="https://ik.imagekit.io/tatmorenno/Ecoleta_-_Google_Chrome_2020-07-02_02-02-05_To0SGwmXD.gif" width="620" height="400">
+  <img src="https://ik.imagekit.io/tatmorenno/Ecoleta_-_Google_Chrome_2020-07-02_02-02-05_To0SGwmXD.gif" width="700" height="400">
 
 </h1>
 
